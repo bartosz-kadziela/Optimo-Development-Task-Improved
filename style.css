@@ -20,4 +20,72 @@ body {
     background-color: rgb(0, 120, 0);
     border: 4px solid black;
     flex-grow: 1;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section1 {
+    display: flex;
+    justify-content: space-between;
+    width: calc(50% + 125px);
+}
+
+.section2 {
+    display: flex;
+}
+
+.squares {
+    margin: 22px;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    transform: rotate(45deg);
+    background-color: red;
+}
+
+.square:first-child {
+    margin-left: 104px;
+}
+
+.lines-circle {
+    display: flex;
+    margin-top: 80px;
+    align-items: center;
+    height: max-content;
+}
+
+.line {
+    height: 14px;
+    width: 120px;
+    border: 2px solid black;
+    background-color: blue;
+}
+
+.line:first-child {
+    margin-bottom: 40px;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 9999px;
+    border: 2px solid black;
+    background-color: rgb(0, 128, 128);
+    margin-left: 22px;
+}
+
+.rectangle {
+    width: 200px;
+    background-color: white;
+    border: 2px solid black;
+    margin: 30px 20px;
+    flex-grow: 1;
+}
+
+.rectangle p {
+    text-align: center;
+    font-size: 32px;
 }
