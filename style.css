@@ -89,3 +89,25 @@ body {
     text-align: center;
     font-size: 32px;
 }
+
+@media screen and (max-width: 582px) {
+    .content {
+        flex-direction: column;
+        justify-content: unset;
+    }
+
+    .section1 {
+        flex-direction: column;
+        margin-left: 12px;
+    }
+
+    .section2 {
+        flex-grow: 1;
+    }
+
+    .rectangle {
+        flex-grow: 0;
+        background-color: blue;
+        margin-left: 50px;
+    }
+}
