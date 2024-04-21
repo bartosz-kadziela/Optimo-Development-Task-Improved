@@ -1,0 +1,13 @@
+1. Move furniture - empty the room of any furniture.
+2. Measurements - measure the room, and calculate how much liters of each paint is required. (2x= 2 layers).
+3. Dismantle the lighting - switch off the electricity and unscrew all of the ceiling lights.
+4. Secure the room - secure all of the windows, windowsills and skirting boards with a protective foil.
+5. Remove old paint - remove the old paint from the walls/ceiling.
+6. Put finish coat - apply one layer of a finish coat to smooth unevenness on the walls/ceiling.
+7. Put the 1st layer of paint- apply the 1st layer of paint on the walls/ceiling.
+8. Wait - wait for the the 1st layer of paint to dry completely.
+9. Check the paint- ensure that the 1st layer of the paint is dry.
+10. Put the 2nd layer of paint - apply the 2nd layer of paint on the walls/ceiling.
+11. Remove the foil- remove all of the protective foil.
+12. Assemble the lightning - install all of the ceiling lights.
+13. Move furniture - move the furniture back into the room.
